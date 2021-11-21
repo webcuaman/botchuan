@@ -1,0 +1,67 @@
+{
+    "language": "vi",
+    "keyActive": "",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "autoClean": false,
+    "commandDisabled": [],
+    "eventDisabled": [],
+    "EMAIL": "",
+    "PASSWORD": "",
+    "OTPKEY": "",
+    "BOTNAME": "VanManBOT",
+    "PREFIX": "/",
+    "ADMINBOT": [
+        "100073625409901",
+        "100020111616327"
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "error",
+        "selfListen": false,
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Safari/537.36"
+    },
+    "version": "1.2.14",
+    "help": {
+        "autoUnsend": true,
+        "delayUnsend": 30
+    },
+    "adminUpdate": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    },
+    "log": {
+        "enable": true
+    },
+    "rankup": {
+        "autoUnsend": "true",
+        "unsendMessageAfter": 5
+    },
+    "sim": {
+        "APIKEY": "Meew_fjV8ATPaoQUFV3z32vmyoTLxqtirKl"
+    },
+    "sing": {
+        "YOUTUBE_API": "AIzaSyA0TBZtn_-X6aCdkkv9_OfKcOoWCnDf2Fc",
+        "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+    },
+    "video": {
+        "YOUTUBE_API": "AIzaSyA0TBZtn_-X6aCdkkv9_OfKcOoWCnDf2Fc"
+    },
+    "daily": {
+        "cooldownTime": 43200000,
+        "rewardCoin": 200
+    },
+    "work": {
+        "cooldownTime": 1200000
+    }
+}
